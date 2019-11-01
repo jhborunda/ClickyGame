@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Michel Gary Scott",
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/0/02/Michael_Scott.jpg/revision/latest?cb=20170701090332",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "James Duncan Halpert",
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/9/9a/Jim.jpg/revision/latest?cb=20170701084550",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": 3,
+    "name": "Dwight Kurt Schrute III",
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/c/c5/Dwight_.jpg/revision/latest?cb=20170701082424",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "Pamela Morgan Halpert",
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/6/67/Pam_Beesley.jpg/revision/latest?cb=20170701084358",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "Andrew Baines Bernard",
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/b/b5/Andy_Bernard.jpg/revision/latest?cb=20170701084205",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": "Angela Noelle Schrute",
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/0/0b/Angela_Martin.jpg/revision/latest?cb=20170701090232",
+    "occupation": "Student",
+    "location": "Bluffington"
+  },
+  {
+    "id": 7,
+    "name": "Kelly Rajnigandha Kapoor",
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/6/69/Kelly_Kapoor.jpg/revision/latest?cb=20170701090501",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Kevin Jaye Malone",
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/b/b2/2009Kevincropped.PNG/revision/latest?cb=20170701083657",
+    "occupation": "Ladies Man",
+    "location": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "Stanley James Hudson",
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/2/23/Stanley_Hudson.jpg/revision/latest?cb=20170701085445",
+    "occupation": "Adventurer",
+    "location": "California"
+  },
+  {
+    "id": 10,
+    "name": "Meredith Elizabeth Palmer",
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/9/90/2009Meredith.jpg/revision/latest?cb=20170701084945",
+    "occupation": "Cashier",
+    "location": "O-Town, California"
+  },
+  {
+    "id": 11,
+    "name": "Ryan Howard",
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/2/2d/Ryan_Howard.jpg/revision/latest/scale-to-width-down/700?cb=20170630190335",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 12,
+    "name": "Darryl Philbin",
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/4/49/2009DarrylCroppeed.PNG/revision/latest/scale-to-width-down/700?cb=20170701085636",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump"
+  }
+]
