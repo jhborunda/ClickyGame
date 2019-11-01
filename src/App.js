@@ -3,6 +3,7 @@ import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import friends from "./friends.json";
+import Navbar from "./components/Navbar";
 
 class App extends Component {
   // Setting this.state.friends to the friends json array
@@ -21,6 +22,7 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
+        <Navbar />
         <Title>Friends List</Title>
         {this.state.friends.map(friend => (
           <FriendCard
@@ -29,8 +31,6 @@ class App extends Component {
             key={friend.id}
             name={friend.name}
             image={friend.image}
-            occupation={friend.occupation}
-            location={friend.location}
           />
         ))}
       </Wrapper>
